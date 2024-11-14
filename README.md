@@ -17,7 +17,7 @@ Information Management professional specializing in data analytics, program mana
   -AI-Driven Application Development
   -AI Learning & Development Projects: Cursor, Replit, NotebookLM
 
-📊 Key Projects
+📊 Key Projects - 
 National Alzheimer's Coordinating Center
  Program Management: New Investigator Award Program-Annual funding program for new and early career AD/ADRD researchers
   -10+ Awards w/+1.5mil in funding
