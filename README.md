@@ -11,18 +11,18 @@ Information Management professional specializing in data analytics, program mana
   -Marketing & Design: HubSpot, Cvent, Canva, Adobe Illustrator & Acrobat
   -Database Management: Data modeling, REDCap, SQL
 
-🌱 Current Focus Areas
-  -Large Language Models (LLMs)
-  -AI Agents & Autonomous Systems
-  -AI-Driven Application Development
-  -AI Learning & Development Projects: Cursor, Replit, NotebookLM
-
-📊 Current  - Research Community Management at National Alzheimer's Coordinating Center
+📊 Current Position  - Public Information Specialist at the National Alzheimer's Coordinating Center, University of Washington
  Program Management: New Investigator Award Program-Annual funding program for new and early career AD/ADRD researchers
   -10+ Awards w/+1.5mil in funding
  Database Management: NACC Directory Project-Facilitate collaboration among 36 Alzheimer's Disease Research Centers (ADRCs) w/~2000 ADRD community members
   -Facilitate feature updates & connections with NACC's Multimodal Data Platform
   -Develop on-demand training materials and provide ongoing technical support
+
+🌱 Areas of Interest
+  -Large Language Models (LLMs)
+  -AI Agents & Autonomous Systems
+  -AI-Driven Application Development
+  -AI Learning & Development Projects: Cursor, Replit, NotebookLM  
 
 📈 Strategic Research & Marketing Initiatives
  Behavioral Research in Technology and Engineering Center (BRiTE) Market Analysis, University of Washington
