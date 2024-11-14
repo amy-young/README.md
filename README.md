@@ -49,10 +49,10 @@ National Alzheimer's Coordinating Center
   -Data Management Association (DAMA)
 
 🎨 Beyond Tech
- 🏃‍♂️ Active lifestyle: Sailing, Golf, Pickleball, Skiing, Snowboarding
- ⚽ Avid Sports Fan
+ 🏂 Active lifestyle: Sailing, Golf, Pickleball, Skiing, Snowboarding
+ 🏀 Sports Enthusiast
  🌍 Passionate about travel and cultural experiences
- 🤝 Board Member, Delridge Neighborhood Development Association
+ 🤝 Community Leader: Board Member, Delridge Neighborhood Development Association
  👨‍👩‍👧‍👦 Enjoying time with family & friends
 
 📫 Let's Connect!
