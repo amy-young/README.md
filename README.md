@@ -33,7 +33,7 @@ National Alzheimer's Coordinating Center
   -Led market research project with multinational corporations
   -Developed marketing strategy for online training programs
 
-🎓 Education
+🎓 Education - 
   Master of Science in Information Management | University of Washington (2024)
   -Focus: Data Analytics & Business Intelligence, Program & Product Management
  Bachelor of Arts | University of Minnesota
