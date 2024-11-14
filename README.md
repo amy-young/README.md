@@ -1,6 +1,6 @@
 👋 Hi there! I'm Amy
 
-🚀 About Me
+🚀 About Me - 
 Information Management professional specializing in data analytics, program management, and healthcare information systems. Currently serving as a Public Information Specialist at the National Alzheimer's Coordinating Center (NACC), where I manage critical communication platforms and research programs while bridging technology and healthcare research communities. In June 2024, I completed my Master of Science in Information Management at the University of Washington, focusing on Data Analytics & Business Intelligence.
 
 🛠️ Technical Skills
