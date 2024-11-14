@@ -39,7 +39,7 @@ National Alzheimer's Coordinating Center
  Bachelor of Arts | University of Minnesota
   -Major: Sociology & Statistics
 
-🏆 Professional Recognition
+🏆 Professional Recognition - 
  Certificate of Appreciation, NIA Division of Neuroscience
   -Contributor to NACC's Uniform Data Set v4 development
 
